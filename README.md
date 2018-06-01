@@ -5,7 +5,7 @@ herramienta para la auditoria de redes inalambricas<br>
 <br>
 usage: wififly.py [-h] [-dvinf] [-setip] [-mdev] [-rout]
 <br>
-°|navaja suiza electroestatica|°
+°|navaja suiza electromagnetica|°
 <br>
 optional arguments:<br>
   -h, --help         show this help message and exit<br>
