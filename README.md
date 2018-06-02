@@ -1,7 +1,9 @@
 # wififly Ver 0.0.0.001<br>
      tool for the audit of wireless networks
-herramienta para la auditoria de redes inalambricas<br>
-    ------------------------------------------<br>
+Herramienta para la auditoria de redes inalambricas,<br>
+contiene una serie de funciones automatizadas para la<br>
+configuracion de tu dispositivo inalambrico y sus<br>
+estadisticas del flujo de paquetes <br>
 <br>
 usage: wififly.py [-h] [-dvinf] [-setip] [-mdev] [-rout]
 <br>
@@ -17,6 +19,6 @@ optional arguments:<br>
 <br>
 {%[herramienta para la auditoria de redes inalambricas]%}<br>
 <br>
-Compatible con | compatible with :<br>
+<b>Compatible con | compatible with :</b><br>
 Gnu / linux (rpm|deb)<br>
 Mac OS<br>
